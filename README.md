@@ -6,10 +6,10 @@
 This project trains two classification machine learning model (randomforest and logistic regression) to predict the likelihood of bank customers to churn. Other than training, the raw notebook ( `churn_notebook.ipynb`) is rewitten to PEP8 standard and scores a near 8.0/10 on pylint scale.
 
 ## Files and data description
-1. The training and testing datasets are found in './data'
-2. A quick intuition into the dataframe through plots can be found in './images/results'
-3. The trained models are saved in ''./models'
-4. A refactor and  modularized version of './churn_notebook.ipynb' is saved as './churn_library.py'
+1. The training and testing datasets are found in 'data'
+2. A quick intuition into the dataframe through plots can be found in 'images/results'
+3. The trained models are saved in 'models'
+4. A refactor and  modularized version of 'churn_notebook.ipynb' is saved as 'churn_library.py'
 
 ## Running Files
 1. Create environment:
