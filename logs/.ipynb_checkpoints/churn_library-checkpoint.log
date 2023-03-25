@@ -1,0 +1,6 @@
+root - INFO - Raw dataframe fixture creation: SUCCESS
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Encoded dataframe fixture creation: SUCCESS
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - Dataframe feature engineering fixture creation: SUCCESS
+root - INFO - Testing feature_engineering: SUCCESS
